@@ -8,15 +8,13 @@ I have been studying at Makers Academy, where I hope to become a competent and c
 
 #### Communication
 
-My excellent communication skills have proved to be crucial to succeed in life in general (for example when I moved to London from a country which is 7,000 miles far) and also in:
-. teaching: when I lived in Madrid, I taught adults who were in vulnerable situations and who spoke no Spanish or English at all, how to write.
-. translation jobs: I have been in charge of a team of translators and used my communication skills to connect with them and make it possible to meet our targets/deadlines. In my previous job I was the one in charge of communicating with content providers in other countries due to my effective approach when dealing with them.
+My excellent communication skills have been essential to succeed in life in general (for example when I moved to London from a country which is 7,000 miles away), in teaching (when I lived in Madrid, I taught adults who spoke no Spanish or English at all, how to write). Also in translation jobs: when I was in charge of a diverse team of translators, I was able to connect with them and make it possible to meet our targets/deadlines thanks to my effective communication skills. In my previous job I was the one in charge of communicating with content providers in other countries due to my effective approach when dealing with them.
 
 #### Commitment
 I completed the first year of the BSc in Astronomy degree as a remote student, while doing an unrelated full-time job. With a great degree of discipline and focus, I managed to teach many mathematics and physics topics to myself from GCSE level to A-level in less than one year.
 
 #### Team player
-I adapt easily to my role in a team. In my last job, my boss and team mates praised my positive influence and saw it as crucial to the success of our team project. My enthusiasm, contribution, hard work, and the ability to create a pleasant working atmosphere for the team was always mentioned in the yearly appraisals both by my managers and colleagues.
+I adapt easily to my role in a team. In my last job, my boss and team mates praised my positive influence and saw it as crucial to the success of our team project. My enthusiasm, contribution, hard work, and the ability to create a pleasant working atmosphere for the team was mentioned in my yearly appraisal both by my managers and colleagues.
 
 #### Attention to detail
 I have a good eye for detail, I tend to notice small things that other people do not notice. In my translation jobs I have always edited my work thoroughly to polish the text and submit the highest-quality translation possible to customers.
