@@ -42,7 +42,7 @@ I have a good eye for detail and often notice small things that other people do 
 
 ## Experience
 
-- Cision -Gorkana Group, London (2011 to 2017) **Translator**
+- Cision -Gorkana Group, London (2011 to 2018) **Translator**
 - UIC Language Academy, London (2012) **Spanish teacher**
 - IE Business School, Madrid (2006 to 2011) **Bilingual secretary**
 - British Language Centre, Madrid (2007 to 2010) **English teacher**
