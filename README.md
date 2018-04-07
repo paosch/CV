@@ -41,17 +41,11 @@ I have a good eye for detail and often notice small things that other people do 
 - University of Cambridge ESOL (2007) **Certificate in English Language Teaching to Adults**
 
 ## Experience
-**Translator**
-Cision -Gorkana Group, London (2011 to 2017)
-**Spanish teacher**
-UIC Language Academy, London (2012)  
-**Bilingual secretary**
-IE Business School, Madrid (2006 to 2011)  
-**English teacher**
-British Language Centre, Madrid (2007 to 2010)
-**Freelance translator**
-Eurolondon Appointments, London (2003 to 2005)
-**Financial translator**, promoted to Deputy Team Leader in 2002  
-Durrants, London (2000 to 2005)
-**Administrative officer**  
-UK Employment Service (London Bridge Jobcentre), London (1999 to 2000)
+
+- Cision -Gorkana Group, London (2011 to 2017) **Translator**
+- UIC Language Academy, London (2012) **Spanish teacher**
+- IE Business School, Madrid (2006 to 2011) **Bilingual secretary**
+- British Language Centre, Madrid (2007 to 2010) **English teacher**
+- Eurolondon Appointments, London (2003 to 2005) **Freelance translator**
+- Durrants, London (2000 to 2005) **Financial translator**, promoted to Deputy Team Leader in 2002  
+- UK Employment Service (London Bridge Jobcentre), London (1999 to 2000) **Administrative officer**
