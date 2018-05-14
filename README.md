@@ -24,11 +24,11 @@ I have just finished my course at Makers Academy and I am now looking for a role
 I completed a two-year astronomy course, as well as the first year of a BSc in Astronomy degree as a remote student, all while doing an unrelated full-time job. I had no science background, but with lots of hard work, discipline and focus I was able to teach myself and reach the level of maths and physics required to succeed in the course. 
 
 #### Teamwork
-- I am a great collaborator and easily adapt to my role in a team. In my last job, my boss and team mates praised my positive influence and saw it as crucial to the success of our team projects. My enthusiasm, contribution, hard work, and the ability to create a pleasant working atmosphere for the team was mentioned in my yearly appraisals both by managers and colleagues. Last Christmas, we were short of staff and I took on a great amount of extra work. We still managed to meet the deadlines and targets and there were no customer complaints.  
+- I am a great collaborator and easily adapt to my role in a team. In my last job, my boss and team mates praised my positive influence and saw it as crucial to the success of our team projects. My enthusiasm, contribution, hard work, and the ability to create a pleasant working atmosphere for the team were mentioned in my yearly appraisals both by managers and colleagues. Last Christmas, we were short of staff and I took on a great amount of extra work. We still managed to meet the deadlines and targets and there were no customer complaints.  
 - In Makers Academy, I have been thanked several times through our communication channel for good pair-programming 
 
 #### Attention to detail
-I have a good eye for detail and often notice small things that other people fail to see. I developed this useful skill during my translation career. I have always edited my work thoroughly in order to give customers the highest-quality translation possible.
+I have a good eye for detail, I often notice small things that other people fail to see. I developed this useful skill during my entire translation career. I have always edited my work thoroughly in order to provide customers with the highest-quality translation possible.
 
 ## Education
 
