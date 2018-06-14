@@ -1,7 +1,7 @@
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience)   
 
 # Paola Schiaffino
-After two language degrees and more than ten years of working as a professional translator, I plunged into coding. I am now a full-stack junior software developer. I needed a new and challenging career and I am positive that coding will give me the opportunity to create exciting things.
+After two language degrees and more than ten years of working as a professional translator, I plunged into coding. I am now a full-stack junior software developer. I needed a new and intellectually-challenging career and I know that coding will give me the opportunity to create exciting things.
 
 I have just finished my course at Makers Academy and I am now looking for a role where I can expand my programming skills and knowledge. I would like to work in a diverse and international environment with the support of people who follow the best coding practices. 
 
@@ -10,10 +10,10 @@ I have just finished my course at Makers Academy and I am now looking for a role
 
 | Project  | Description | Technologies | Testing framework |  Link |
 |---|---|---|---|---| 
-| Bank | A simple bank program written as a technical test | Ruby | RSpec | [Bank](https://github.com/paosch/Bank)|
-| Boris Bikes | A program that emulates the Boris Bikes system | Ruby | RSpec | [Boris Bikes](https://github.com/paosch/Boris-Bikes)|
+| Boris Bikes | A program that emulates the Boris Bikes system. The two versions show the progress made from Feb 2018 to May 2018 | Ruby | RSpec | [Boris Bikes](https://github.com/paosch/Boris-Bikes)|
 | Airport | A program to control the flow of planes at an airport | Ruby | RSpec | [Airport](https://github.com/paosch/Airport) |
 | RPS | A web application that enables a user to play Rock, Paper, Scissors | Ruby, Sinatra, Heroku | RSpec, Capybara | [RPS](https://rpspaolap.herokuapp.com/) |
+| Fizzbuzz-JS | The fizzbuzz kata, written to practise JavaScript and TDD | JavaScript | Jasmine | [Fizzbuzz-JS](https://github.com/paosch/Fizzbuzz-JS)|
 | Thermostat | A program with the logic for a simple thermostat | JavaScript, JQuery, API | Jasmine | [Thermostat](https://github.com/paosch/Thermostat) |
 
 ## Skills
@@ -27,7 +27,7 @@ I completed a two-year astronomy course, as well as the first year of a BSc in A
 
 #### Teamwork
 - I am a great collaborator and easily adapt to my role in a team. In my last job, my boss and team mates praised my positive influence and saw it as crucial to the success of our team projects. My enthusiasm, contribution, hard work, and the ability to create a pleasant working atmosphere for the team were mentioned in my yearly appraisals both by managers and colleagues. Last Christmas I was working as a translator in Cision and we were short of staff. I took on a great amount of extra work (the deputy team leader's coordination, delivery and translation tasks plus another colleague's translation tasks). We still managed to meet the deadlines and targets and there were no customer complaints.  
-- In Makers Academy, I have been thanked several times through our communication channel for good pair-programming 
+- In Makers Academy, I have been thanked several times through our communication channel for good pair-programming and group work 
 
 #### Attention to detail
 I have a good eye for detail, I often notice small things that other people fail to see. I developed this useful skill during my entire translation career. I have always edited my work thoroughly in order to provide customers with the highest-quality translation possible.
@@ -37,11 +37,15 @@ I have a good eye for detail, I often notice small things that other people fail
 #### Makers Academy (January 2018 to May 2018)
 A 16-week intensive coding bootcamp that focuses on:
 
-- Agile methodologies and XP values
-- Object-oriented design
-- Test-driven development
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Ruby on Rails
+- Rspec, Jasmine, Capybara
+- Heroku
+- JavaScript, JQuery
+- Object Oriented Programming (OOP)
+- Test Driven Development (TDD) 
+- Version control (Git, Github)
+- Agile methodologies
+- XP values
 
 #### University College London (2013 to 2015) 
    _Certificate of Higher Education in Astronomy_ (pass mark: 85%) 
