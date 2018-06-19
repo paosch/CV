@@ -8,13 +8,13 @@ I have just finished my course at Makers Academy and I am now looking for a role
 
 ## Projects
 
-| Project  | Description | Technologies | Testing framework |  Link |
-|---|---|---|---|---| 
-| Boris Bikes | A program that emulates the Boris Bikes system. The two versions show the progress made from Feb 2018 to May 2018 | Ruby | RSpec | [Boris Bikes](https://github.com/paosch/Boris-Bikes)|
-| Airport | A program to control the flow of planes at an airport | Ruby | RSpec | [Airport](https://github.com/paosch/Airport) |
-| RPS | A web application that enables a user to play Rock, Paper, Scissors | Ruby, Sinatra, Heroku | RSpec, Capybara | [RPS](https://rpspaolap.herokuapp.com/) |
-| Fizzbuzz-JS | The fizzbuzz kata, written to practise JavaScript and TDD | JavaScript | Jasmine | [Fizzbuzz-JS](https://github.com/paosch/Fizzbuzz-JS)|
-| Thermostat | A program with the logic for a simple thermostat | JavaScript, JQuery, API | Jasmine | [Thermostat](https://github.com/paosch/Thermostat) |
+| Project  | Description | Technologies | Testing framework | 
+|---|---|---|---|
+| [Boris Bikes](https://github.com/paosch/Boris-Bikes) | A program that emulates the Boris Bikes system. The two versions show the progress made from Feb 2018 to May 2018 | Ruby | RSpec | 
+| [Airport](https://github.com/paosch/Airport) | A program to control the flow of planes at an airport | Ruby | RSpec |  
+| [RPS](https://rpspaolap.herokuapp.com/) | A web application that enables a user to play Rock, Paper, Scissors | Ruby, Sinatra, Heroku | RSpec, Capybara |  
+| [Fizzbuzz-JS](https://github.com/paosch/Fizzbuzz-JS) | The fizzbuzz kata, written to practise JavaScript and TDD | JavaScript | Jasmine | 
+| [Thermostat](https://github.com/paosch/Thermostat) | A program with the logic for a simple thermostat | JavaScript, JQuery, API | Jasmine |  
 
 ## Skills
 
@@ -35,12 +35,13 @@ I have a good eye for detail, I often notice small things that other people fail
 ## Education
 
 #### Makers Academy (January 2018 to May 2018)
-A 16-week intensive coding bootcamp that focuses on:
-
-- Ruby, Ruby on Rails
+Computer programming bootcamp that focuses on the following technologies and practices:
+- Ruby, Ruby on Rails, Sinatra
 - Rspec, Jasmine, Capybara
+- JavaScript
+- HTML, CSS
 - Heroku
-- JavaScript, JQuery
+- PostgreSQL
 - Object Oriented Programming (OOP)
 - Test Driven Development (TDD) 
 - Version control (Git, Github)
