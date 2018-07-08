@@ -1,7 +1,7 @@
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience)   
 
 # Paola Schiaffino
-After two language degrees and more than ten years of working as a professional translator, I plunged into coding. I am now a full-stack junior software developer. I needed a new and intellectually-challenging career and I know that coding will give me the opportunity to create exciting things.
+After two language degrees and more than ten years of working as a professional translator, I dived into coding. I am now a full-stack junior software developer. I needed a new and intellectually-challenging career and I know that coding will give me the opportunity to create exciting things.
 
 I have just finished my course at Makers Academy and I am now looking for a role where I can expand my programming skills and knowledge. I would like to work in an Agile environment where I can contribute and grow with the support of people who follow the best coding practices. 
 
